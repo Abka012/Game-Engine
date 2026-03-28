@@ -3,6 +3,9 @@ build/
 bin/
 lib/
 
+# Ignore submodules (their source code is managed by git submodule)
+submodules/
+
 # Ignore CMake generated files
 CMakeFiles/
 CMakeCache.txt
